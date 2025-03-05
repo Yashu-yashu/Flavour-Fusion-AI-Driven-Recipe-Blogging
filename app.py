@@ -66,7 +66,7 @@ def recipe_generation(user_input, word_count):
 
 def main():
     """Main Streamlit application."""
-    st.title("🍽️ RecipeMaster: AI-Powered Blog Generation")
+    st.title("🍽️ Flavour Fusion: AI-Driven Recipe Blogging")
     st.write("Hello! I'm RecipeMaster, your friendly robot. Let's create a fantastic recipe together!")
     
     # User inputs
